@@ -1,3 +1,8 @@
+# Hi, I'm Sharique Baig 👋
+### 🛡️ Cybersecurity Professional | 🏗️ Secure Software Developer
+**Penetration Tester & CS Student @ IBA Karachi**
+
+*I specialty is in offensive security, breaking systems to uncover vulnerabilities and building robust, security-hardened applications from the ground up.*
 
 ```text
   ____  _   _    _    ____  ___ ___  _   _ _____ 
@@ -14,21 +19,21 @@
 ```
 
 ### 👨‍💻 sharique@kali:~$ whoami
-> **Cybersecurity Professional & Computer Science Student @ IBA Karachi**
-> CGPA: 3.82 | Dean's List | Securing digital assets through offensive security.
+> **Cybersecurity Specialist:** Focused on vulnerability research and offensive security, complemented by a strong background in secure software engineering.
 
 ---
 
 ### 📂 sharique@kali:~$ cat profile.json
 ```json
 {
-  "status": "Infiltrating the Industry",
+  "role": "Security-First Software Engineer",
+  "philosophy": "Builder by Day, Breaker by Night",
   "current_pursuit": "ISC2 Certified in Cybersecurity (CC)",
   "education": "BS Computer Science - IBA Karachi",
-  "interests": ["Pentesting", "Bug Bounty", "Secure Dev", "AI/ML"],
+  "interests": ["Secure SDLC", "WebApp Pentesting", "Embedded Systems", "AI Security"],
   "achievements": [
     "2nd Position - Line Following Robot (Probattle 2026)",
-    "Google Cybersecurity Professional",
+    "Google Cybersecurity Professional+",
     "Module Head of Robotics @ Probattle"
   ]
 }
