@@ -54,9 +54,12 @@
 ---
 
 ### 📬 sharique@kali:~$ finger sharique
-- **Email:** [shariquebaig0@gmail.com](mailto:shariquebaig0@gmail.com)
-- **LinkedIn:** [linkedin.com/in/shariquebaig](https://linkedin.com/in/shariquebaig)
-- **Portfolio:** [shariquebaig.github.io/Cyber-Portfolio](https://shariquebaig.github.io/Cyber-Portfolio/)
+```text
+[CONTACT INFORMATION]
+Email:     shariquebaig0@gmail.com
+LinkedIn:  linkedin.com/in/shariquebaig
+Portfolio: shariquebaig.github.io/Cyber-Portfolio
+```
 
 ---
 <p align="center">
