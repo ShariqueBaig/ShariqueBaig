@@ -54,7 +54,7 @@
 </p>
 
 > [!NOTE]
-> *If the cards above are not loading, the external stats server is temporarily down. Your profile and skills are still perfectly visible below!*
+> *If the cards above are not loading, the external stats server is temporarily down. My profile and skills are still perfectly visible below!*
 
 ---
 
