@@ -1,77 +1,64 @@
-# 🛡️ Sharique Baig — Cybersecurity Portfolio
+# 🛡️ SYSTEM ACCESS AUTHORIZED
 
-> Securing your digital assets through offensive security.
+```text
+  ____  _   _    _    ____  ___ ___  _   _ _____ 
+ / ___|| | | |  / \  |  _ \|_ _/ _ \| | | | ____|
+ \___ \| |_| | / _ \ | |_) || | | | | | | |  _|  
+  ___) |  _  |/ ___ \|  _ < | | |_| | |_| | |___ 
+ |____/|_| |_/_/   \_\_| \_\___\__\_\\___/|_____|
+                                                 
+  ____    _    ___ ____ 
+ | __ )  / \  |_ _/ ___|
+ |  _ \ / _ \  | | |  _ 
+ | |_) / ___ \ | | |_| |
+ |____/_/   \_\___\____|
+```
 
-A professional portfolio website showcasing my penetration testing experience, security consulting services, and cybersecurity research.
+### 👨‍💻 sharique@kali:~$ whoami
+> **Cybersecurity Professional & Computer Science Student @ IBA Karachi**
+> CGPA: 3.82 | Dean's List | Securing digital assets through offensive security.
 
 ---
 
-## 🔍 About
-
-I'm a cybersecurity professional and CS student at IBA Karachi specializing in penetration testing, vulnerability assessment, and security consulting. This portfolio presents my real-world security assessments, methodology, and technical expertise — all built with a security-first mindset.
-
-## 🎯 What's Inside
-
-- **Case Studies** — Sanitized real-world penetration test findings across e-commerce platforms, academic systems, and web applications
-- **Services** — Penetration testing, vulnerability assessment, security consulting, and secure development
-- **Methodology** — My 6-phase structured approach to offensive security testing
-- **Skills & Tools** — Burp Suite, SQLMap, Nmap, OWASP ZAP, and more
-- **Certifications** — Google Cybersecurity Professional Certificate, Google Data Analytics
-- **Stories** — Bug bounty discovery and cybersecurity education outreach
-
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|-------|-----------|
-| Structure | HTML5 (semantic) |
-| Styling | Vanilla CSS (custom properties, glassmorphism, responsive) |
-| Interactivity | Vanilla JavaScript (no dependencies) |
-| Fonts | Inter + JetBrains Mono (Google Fonts) |
-| Hosting | GitHub Pages |
-
-**Zero dependencies. Zero build tools. Zero frameworks.**
-
-## 🚀 Deployment
-
-This site is deployed on [GitHub Pages](https://pages.github.com/). To deploy your own fork:
-
-1. Fork this repository
-2. Go to **Settings → Pages**
-3. Set source to `main` branch
-4. Your site will be live at `https://<username>.github.io/<repo-name>/`
-
-### Local Development
-
-```bash
-# Clone the repository
-git clone https://github.com/ShariqueBaig/<repo-name>.git
-
-# Serve locally
-python -m http.server 8080
-
-# Open in browser
-# http://localhost:8080
+### 📂 sharique@kali:~$ cat profile.json
+```json
+{
+  "status": "Infiltrating the Industry",
+  "current_pursuit": "ISC2 Certified in Cybersecurity (CC)",
+  "education": "BS Computer Science - IBA Karachi",
+  "interests": ["Pentesting", "Bug Bounty", "Secure Dev", "AI/ML"],
+  "achievements": [
+    "2nd Position - Line Following Robot (Probattle 2026)",
+    "Google Cybersecurity Professional",
+    "Module Head of Robotics @ Probattle"
+  ]
+}
 ```
 
-## 📂 Structure
+### 🔧 sharique@kali:~$ ./display_tools.sh --active
+- **Offensive:** `Burp Suite Pro`, `SQLMap`, `Nmap`, `ffuf`, `OWASP ZAP`, `Metasploit`
+- **Languages:** `Python`, `JavaScript`, `C++`, `Bash`, `SQL`
+- **Methods:** `OWASP Top 10`, `WSTG`, `CVSS v3.1`, `Zero Trust`
 
-```
-├── index.html    # Single-page portfolio (all sections)
-├── style.css     # Design system & responsive styles
-├── script.js     # Animations & interactivity
-└── README.md     # You are here
-```
+---
 
-## ⚠️ Disclaimer
+### 📊 sharique@kali:~$ ./fetch_github_stats.py
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShariqueBaig&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariqueBaig&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+</p>
 
-All case studies presented in this portfolio use **sanitized information**. No real client names, credentials, or sensitive data are disclosed. Findings are presented in a generalized format to demonstrate methodology and impact while maintaining client confidentiality.
+> [!NOTE]
+> *If the cards above are not loading, the external stats server is temporarily down. Your profile and skills are still perfectly visible below!*
 
-## 📬 Contact
+---
 
-- **Email:** shariquebaig0@gmail.com
+### 📬 sharique@kali:~$ finger sharique
+- **Email:** [shariquebaig0@gmail.com](mailto:shariquebaig0@gmail.com)
 - **LinkedIn:** [linkedin.com/in/shariquebaig](https://linkedin.com/in/shariquebaig)
-- **GitHub:** [github.com/ShariqueBaig](https://github.com/ShariqueBaig)
+- **Portfolio:** [shariquebaig.github.io/Cyber-Portfolio](https://shariquebaig.github.io/Cyber-Portfolio/)
 
 ---
-
-<p align="center"><code>&lt;secured by="design" /&gt;</code></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShariqueBaig&color=00d4ff&style=flat-square&label=LEVEL+ACCESSES" alt="ShariqueBaig" />
+</p>
