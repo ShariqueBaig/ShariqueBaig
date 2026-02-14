@@ -4,19 +4,6 @@
 
 *I specialty is in offensive security, breaking systems to uncover vulnerabilities and building robust, security-hardened applications from the ground up.*
 
-```text
-  ____  _   _    _    ____  ___ ___  _   _ _____ 
- / ___|| | | |  / \  |  _ \|_ _/ _ \| | | | ____|
- \___ \| |_| | / _ \ | |_) || | | | | | | |  _|  
-  ___) |  _  |/ ___ \|  _ < | | |_| | |_| | |___ 
- |____/|_| |_/_/   \_\_| \_\___\__\_\\___/|_____|
-                                                 
-  ____    _    ___ ____ 
- | __ )  / \  |_ _/ ___|
- |  _ \ / _ \  | | |  _ 
- | |_) / ___ \ | | |_| |
- |____/_/   \_\___\____|
-```
 
 ### 👨‍💻 sharique@kali:~$ whoami
 > **Cybersecurity Specialist:** Focused on vulnerability research and offensive security, complemented by a strong background in secure software engineering.
