@@ -2,8 +2,7 @@
 ### 🛡️ Cybersecurity Professional | 🏗️ Secure Software Developer
 **Penetration Tester & CS Student @ IBA Karachi**
 
-*I specialty is in offensive security, breaking systems to uncover vulnerabilities and building robust, security-hardened applications from the ground up.*
-
+*My specialty is in offensive security, breaking systems to uncover vulnerabilities and building robust, security-hardened applications from the ground up.*
 
 ### 👨‍💻 sharique@kali:~$ whoami
 > **Cybersecurity Specialist:** Focused on vulnerability research and offensive security, complemented by a strong background in secure software engineering.
@@ -13,14 +12,14 @@
 ### 📂 sharique@kali:~$ cat profile.json
 ```json
 {
-  "role": "Security-First Software Engineer",
-  "philosophy": "Builder by Day, Breaker by Night",
+  "role": "Offensive Security Specialist & Secure Developer",
+  "philosophy": "Infiltrate, Analyze, Secure",
   "current_pursuit": "ISC2 Certified in Cybersecurity (CC)",
   "education": "BS Computer Science - IBA Karachi",
-  "interests": ["Secure SDLC", "WebApp Pentesting", "Embedded Systems", "AI Security"],
+  "interests": ["WebApp Pentesting", "Secure SDLC", "AI Security", "Embedded Systems"],
   "achievements": [
-    "2nd Position - Line Following Robot (Probattle 2026)",
     "Google Cybersecurity Professional+",
+    "2nd Position - Line Following Robot (Probattle 2026)",
     "Module Head of Robotics @ Probattle"
   ]
 }
