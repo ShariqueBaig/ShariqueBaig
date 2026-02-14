@@ -43,8 +43,13 @@
 ---
 
 ### 📊 sharique@kali:~$ ./fetch_github_stats.py
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShariqueBaig&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShariqueBaig&layout=compact&theme=tokyonight&hide_border=true) |
-| :--- | :--- |
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShariqueBaig&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShariqueBaig&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+</p>
+
+> [!NOTE]
+> *If the cards above are not loading, the external stats server is temporarily down. Your profile and skills are still perfectly visible below!*
 
 ---
 
