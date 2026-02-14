@@ -1,4 +1,3 @@
-# 🛡️ SYSTEM ACCESS AUTHORIZED
 
 ```text
   ____  _   _    _    ____  ___ ___  _   _ _____ 
@@ -36,6 +35,12 @@
 ```
 
 ### 🔧 sharique@kali:~$ ./display_tools.sh --active
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
 - **Offensive:** `Burp Suite Pro`, `SQLMap`, `Nmap`, `ffuf`, `OWASP ZAP`, `Metasploit`
 - **Languages:** `Python`, `JavaScript`, `C++`, `Bash`, `SQL`
 - **Methods:** `OWASP Top 10`, `WSTG`, `CVSS v3.1`, `Zero Trust`
