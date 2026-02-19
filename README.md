@@ -12,6 +12,7 @@
 ### 📂 sharique@kali:~$ cat profile.json
 ```json
 {
+  "name": "Sharique Baig",
   "role": "Offensive Security Specialist & Secure Developer",
   "philosophy": "Infiltrate, Analyze, Secure",
   "current_pursuit": "ISC2 Certified in Cybersecurity (CC)",
